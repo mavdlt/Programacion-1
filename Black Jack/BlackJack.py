@@ -1,3 +1,5 @@
+#Simula el juego del blackJack
+#Autor: AV
 import random
 
 # Valores de baraja
