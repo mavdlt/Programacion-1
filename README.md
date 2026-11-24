@@ -18,7 +18,7 @@ Los ejercicios están organizados por temas, y cada programa se encuentra en su 
 
 ### CifradoCesar
 
-codifica un mensaje y lo decodifica de a cuerdo al alfabeto y un desplazamiento dado
+Codifica un mensaje y lo decodifica de a cuerdo al alfabeto y un desplazamiento dado.
 
 **Requisitos:**
 - Tener instalado Python 3.

@@ -1,6 +1,7 @@
 #CIFRADO CESAR. Se encripta de acuerdo al abecedario y un desplazamiento dado
-Autor:AV
+#Autor:AV
 
+#Alfabeto a cifrar
 alfabeto = "ABCDEFJHIJKLMNÑOPQRSTUVWXYZ abcdefghijklmnñoprstuvwxyz"
 
 print("Este programa encripta mensajes de acuerdo al abecedario y un desplazamiento dado. Además es capaz de desencriptar mensajes.")
